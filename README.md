@@ -1,2 +1,2 @@
 # GitActionsDemo
-To try out different Git Actions
+This is for gir hub actions
